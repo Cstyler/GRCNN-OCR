@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<my_object>
+  <format>3</format>
+  <name>BackgroundSubtractor.MOG2</name>
+  <history>500</history>
+  <nmixtures>5</nmixtures>
+  <backgroundRatio>8.9999997615814209e-01</backgroundRatio>
+  <varThreshold>16.</varThreshold>
+  <varThresholdGen>9.</varThresholdGen>
+  <varInit>15.</varInit>
+  <varMin>4.</varMin>
+  <varMax>75.</varMax>
+  <complexityReductionThreshold>5.0000000745058060e-02</complexityReductionThreshold>
+  <detectShadows>0</detectShadows>
+  <shadowValue>127</shadowValue>
+  <shadowThreshold>5.0000000000000000e-01</shadowThreshold></my_object>
+</opencv_storage>

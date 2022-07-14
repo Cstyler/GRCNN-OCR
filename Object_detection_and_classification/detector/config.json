@@ -1,0 +1,213 @@
+{
+  "empty_weights": "models/weights/empty_class_mobilenetv3.h5",
+  "product_weights": "models/weights/best.pt",
+  "yaml_product": "product.yaml",
+  "POS60": {
+    "product roi": [
+      109,
+      0,
+      338,
+      323
+    ],
+    "people roi": [
+      121,
+      0,
+      304,
+      195
+    ],
+    "backgroundimage": "models/POS60/background_POS60BOY242.jpg",
+    "threshold": 0.45
+  },
+  "POS601": {
+    "product roi": [
+      109,
+      0,
+      338,
+      325
+    ],
+    "people roi": [
+      121,
+      0,
+      304,
+      195
+    ],
+    "backgroundimage": "models/POS60/background_POS60BOY242.jpg",
+    "threshold": 0.45
+  },
+  "POS602": {
+    "product roi": [
+      109,
+      0,
+      338,
+      325
+    ],
+    "people roi": [
+      121,
+      0,
+      304,
+      195
+    ],
+    "backgroundimage": "models/POS60/background_POS60BOY242.jpg",
+    "threshold": 0.45
+  },
+  "POS605": {
+    "product roi": [
+      109,
+      0,
+      338,
+      325
+    ],
+    "people roi": [
+      121,
+      0,
+      304,
+      195
+    ],
+    "backgroundimage": "models/POS60/background_POS60BOY242.jpg",
+    "threshold": 0.45
+  },
+  "POS607": {
+    "product roi": [
+      109,
+      0,
+      338,
+      325
+    ],
+    "people roi": [
+      121,
+      0,
+      304,
+      195
+    ],
+    "backgroundimage": "models/POS60/background_POS60BOY242.jpg",
+    "threshold": 0.45
+  },
+  "POS608": {
+    "product roi": [
+      109,
+      0,
+      338,
+      325
+    ],
+    "people roi": [
+      121,
+      0,
+      304,
+      195
+    ],
+    "backgroundimage": "models/POS60/background_POS60BOY242.jpg",
+    "threshold": 0.45
+  },
+  "POS610": {
+    "product roi": [
+      109,
+      0,
+      338,
+      325
+    ],
+    "people roi": [
+      121,
+      0,
+      304,
+      195
+    ],
+    "backgroundimage": "models/POS60/background_POS60BOY242.jpg",
+    "threshold": 0.45
+  },
+  "POS613": {
+    "product roi": [
+      109,
+      0,
+      338,
+      325
+    ],
+    "people roi": [
+      121,
+      0,
+      304,
+      195
+    ],
+    "backgroundimage": "models/POS60/background_POS60BOY242.jpg",
+    "threshold": 0.45
+  },
+  "POS65": {
+    "product roi": [
+      109,
+      0,
+      338,
+      323
+    ],
+    "people roi": [
+      119,
+      0,
+      307,
+      207
+    ],
+    "backgroundimage": "models/POS65/background_POS65BOY242.jpg",
+    "threshold": 0.75
+  },
+  "POS70": {
+    "product roi": [
+      110,
+      0,
+      355,
+      324
+    ],
+    "people roi": [
+      128,
+      0,
+      321,
+      193
+    ],
+    "backgroundimage": "models/POS70/background_POS70BOY242.jpg",
+    "threshold": 0.75
+  },
+  "POS71": {
+    "product roi": [
+      129,
+      0,
+      325,
+      343
+    ],
+    "people roi": [
+      142,
+      0,
+      306,
+      215
+    ],
+    "backgroundimage": "models/POS71/background_POS71BO5194.jpg",
+    "threshold": 0.6
+  },
+  "POS72": {
+    "product roi": [
+      117,
+      0,
+      328,
+      334
+    ],
+    "people roi": [
+      121,
+      0,
+      320,
+      213
+    ],
+    "backgroundimage": "models/POS72/background_POS72BO5194.jpg",
+    "threshold": 0.75
+  },
+  "POS73": {
+    "product roi": [
+      117,
+      0,
+      328,
+      334
+    ],
+    "people roi": [
+      121,
+      0,
+      320,
+      213
+    ],
+    "backgroundimage": "models/POS72/background_POS72BO5194.jpg",
+    "threshold": 0.75
+  }
+}
