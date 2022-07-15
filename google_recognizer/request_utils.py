@@ -74,7 +74,7 @@ def assert_img_is_valid(img: np.ndarray, src: str) -> None:
 
 
 class GoogleVisionRequester:
-    api_key = "AIzaSyB4icgANJ3Eeuik7A1N2fIrEubKJf0C-0o"
+    api_key = ""
     url = "https://vision.googleapis.com/v1/images:annotate?key=%s" % api_key
 
     def __init__(self) -> None:
